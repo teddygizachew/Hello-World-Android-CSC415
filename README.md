@@ -1,1 +1,1 @@
-# Hello-World-Android-Class
+# Hello-World-Android-Course
