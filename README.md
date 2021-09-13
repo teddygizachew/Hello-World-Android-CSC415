@@ -6,15 +6,6 @@
 
 **Hello World** is a simple app that displays the string "Happ Birthday to Mulutsehay!" on the screen of the Android virtual or physical device..
 
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='insta2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## User Stories
 
 The following **required** functionality is completed:
@@ -29,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='hello_world_recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='hello_world_recording.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
