@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='hello_world_recording.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='hello_world_app_recording.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
