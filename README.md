@@ -21,8 +21,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='hello_world_app_recording.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## License
 
     Copyright [2021] [Tewodros Amare]
