@@ -4,7 +4,7 @@
 
 ## Assignment 1 - *Hello World*
 
-**Hello World** is a simple app that displays the string "Happ Birthday to Mulutsehay!" on the screen of the Android virtual or physical device..
+**Hello World** is a simple app that displays the string "Happ Birthday to Mulutsehay!" on the screen of the Android virtual device..
 
 ## User Stories
 
